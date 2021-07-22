@@ -1,0 +1,10 @@
+#
+# dukglu
+#
+---
+imports:
+ fips-duktape:
+  git: https://gitlab.com/g-pechorin/fips-duktape.git
+exports:
+ header-dirs:
+  - include/
