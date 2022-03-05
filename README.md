@@ -1,3 +1,13 @@
+
+> 2022-03-05
+>
+> This has been modified by Peter LaValle https://peterlavalle.github.io/
+>
+> It should now be consumable from floooh's (Andre Weissflog?) [fips build tool](http://floooh.github.io/fips/)
+> - removed the CMake files I didn't understand ... sorry
+> - someone should nag him to update the docs to ether be less ambiguous or match his examples
+
+
 Dukglue
 =======
 
